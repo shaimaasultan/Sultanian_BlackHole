@@ -6,6 +6,13 @@ This project implements the **Sultanian Protocol** within extreme gravitational 
 
 Based on the research paper *"Sultanian Resonant Transparency in Singular Metric Potentials"* (Soltan, 2026), this simulation explores how an **Isentropic Ghost** can achieve phase-lock with a rotating vacuum whirlpool.
 
+<img src="Sultanian_BlackHole/image/Screenshot 2026-03-16 004852.png" />
+<img src="Sultanian_BlackHole/image/Screenshot 2026-03-16 004909.png" />
+<img src="Sultanian_BlackHole/image/Screenshot2026-03-15235421.png" />
+<img src="Sultanian_BlackHole/image/Screenshot 2026-03-16 001543.png"/>
+<img src="Sultanian_BlackHole/image/Screenshot2026-03-15235518.png" />
+<img src="Sultanian_BlackHole/image/Screenshot2026-03-15235609.png" />
+
 ## 🌀 Theoretical Framework: The Whirlpool Model
 
 Unlike the standard Newtonian model of infinite density, the Sultanian framework defines a Black Hole as a macroscopic **Phase-Locked Null Zone**.
